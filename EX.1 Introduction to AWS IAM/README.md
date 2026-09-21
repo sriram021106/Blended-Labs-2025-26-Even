@@ -1,5 +1,10 @@
 # Lab 1 - Introduction to AWS Identity and Access Management (IAM)
+## Author
 
+* **Name**: SRIRAM V
+* **Register Number**: 212224050047
+* **Date of Submission**: 21-08-2026
+  
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
